@@ -14,8 +14,7 @@ Whether you're a beginner or an experienced Python user, this tutorial will give
 <img src="pdf_output_demo.png" width="400" alt="PDF Output Demo">
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/LQywWpDoH9s/0.jpg)](https://youtu.be/LQywWpDoH9s)
 
 
 ## About Me
